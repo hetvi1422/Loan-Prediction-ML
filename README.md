@@ -110,10 +110,7 @@ Created new features like:
 ✔ Learned preprocessing & feature engineering  
 ✔ Understood model interpretation  
 
----
 
-## 🙌 Author
-**Hetvi Belani**
 
 ---
 
